@@ -26,21 +26,13 @@
 
     - Personal Stories: Testimonials and recovery journeys.
 
-    - Expert Opinions: Insights from professionals in the field.
-
-## 5. Admissions Process
-
-    - Step-by-Step Guide: Outline the process from initial contact to treatment enrollment.
-
-    - Insurance Verification: Tools to check coverage and payment options.
-
-## 6. Facility Marketing
+## 5. Facility Marketing
 
     - Claim Listings: Allow centers to claim and manage their profiles.
 
     - Advertising Opportunities: Options for enhanced visibility on the platform.
 
-## Visual and UX Design
+## 6. Visual and UX Design
 
     - Rehabs.com employs a clean, user-friendly design with the following characteristics:
 
@@ -48,7 +40,7 @@
 
     - Responsive Design: Optimized for various devices, ensuring accessibility on desktops, tablets, and smartphones.
 
-## Technical Considerations
+## 7. Technical Considerations
 
 **Front-End**
 
@@ -62,5 +54,5 @@
 
 **Additional Features**
 
-- Authentication: Secure login systems for users and facility administrators.
-- Search Optimization.
+    - Authentication: Secure login systems for users and facility administrators.
+    - Search Optimization.
